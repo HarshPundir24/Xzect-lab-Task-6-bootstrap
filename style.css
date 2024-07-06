@@ -30,7 +30,7 @@
     font-weight: 800;
 }
 .hero-slider {
-    padding-top: 170px;
+    padding-top: 130px;
     background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
     --tw-gradient-from: #f0fff4;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(240 255 244 / 0));
